@@ -1,0 +1,16 @@
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+C:\Estudos\DigitalInnovation\Bootcamps\MRV_NET-Developer\criandoapptransferenciabancaria\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
